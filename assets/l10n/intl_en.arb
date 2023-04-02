@@ -1,0 +1,15 @@
+{
+  "app_name": "Team money",
+  "cannot_make_call": "Không thể thực hiện cuộc gọi này",
+  "content_does_not_exist": "Nội dung không tồn tại",
+  "do_not_empty": "Không được bỏ trống",
+  "username": "Tên đăng nhập",
+  "password": "Mật khẩu",
+  "type_password": "Nhập mật khẩu",
+  "login_fail_message": "Tên đăng nhập hoặc mật khẩu không đúng",
+  "login": "Đăng nhập",
+  "register": "Đăng ký",
+  "username_fail": "Tên đăng nhập không hợp lệ",
+  "confirm_password": "Xác nhận lại mật khẩu",
+  "confirm_password_fail": "Mật khẩu xác nhận lại không đúng"
+}
